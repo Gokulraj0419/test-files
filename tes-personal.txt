@@ -1,1 +1,1 @@
-this is peronal conifg check the ssh key check 
+this is peronal config check test the ssh key check 
